@@ -2,8 +2,8 @@
 Changelog for package contracts_lite_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.3 (2020-09-16)
+------------------
 * Library update: Make includes more consistent, use the gcc_7x to_string function (`#4 <https://github.com/ros-safety/contracts_lite/pull/4>`_)
 * Contributors: Jeffrey Kane Johnson
 
