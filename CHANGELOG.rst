@@ -5,6 +5,7 @@ Changelog for package contracts_lite_vendor
 0.4.0 (2020-09-21)
 ------------------
 - Library update: (`#5 <https://github.com/ros-safety/contracts_lite/pull/5>`_)
+
   - Move-optimize comment string handling
   - Make string serializer for contract violation objects static
   - Move-optimize return status object in enforcement macro
