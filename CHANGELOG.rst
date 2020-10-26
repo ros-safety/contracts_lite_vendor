@@ -2,8 +2,8 @@
 Changelog for package contracts_lite_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.1 (2020-10-26)
+------------------
 * Vendor package update
 
   * Add install instructions to README (`#8 <https://github.com/ros-safety/contracts_lite_vendor/pull/8>`_)
