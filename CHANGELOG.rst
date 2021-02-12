@@ -2,8 +2,8 @@
 Changelog for package contracts_lite_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2021-02-12)
+------------------
 * Library update: Add contract types (`#14 <https://github.com/ros-safety/contracts_lite/pull/14>`_)
 
   * rename contract_types.hpp to operators.hpp
