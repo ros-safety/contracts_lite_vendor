@@ -14,6 +14,7 @@ For the latest version, clone this repo into your workspace.
 
 ## Usage
 
-To use the library under ROS, add a package dependency for `contracts-lite-vendor` and then use as a normal library. For further information, see:
+To use the library under ROS, add a package dependency for `contracts-lite-vendor` and then use as a normal library.
+For further information, see:
 
 - https://github.com/ros-safety/contracts_lite
