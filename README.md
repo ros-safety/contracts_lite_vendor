@@ -14,6 +14,7 @@ For the latest version, clone this repo into your workspace.
 
 ## Usage
 
-For an example usage of this library in a ROS 2 project, see:
+To use the library under ROS, add a package dependency for `contracts_lite_vendor` and then use as a normal library.
+For further information, see:
 
-https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/merge_requests/695
+- https://github.com/ros-safety/contracts_lite
